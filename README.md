@@ -1,0 +1,2 @@
+# OpenThermal
+Thermal camera project
