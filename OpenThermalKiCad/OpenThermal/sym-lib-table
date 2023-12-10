@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MLX90640ESF-BAA-000-TU")(type "KiCad")(uri "${KIPRJMOD}/symbols/MLX90640ESF-BAA-000-TU.kicad_sym")(options "")(descr ""))
+)
